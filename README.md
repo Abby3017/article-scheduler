@@ -3,6 +3,8 @@ This program checks onkollywood.com for latest news and if there is any new it w
 who are mentioned in contacts.txt 
 **mail can come in spam folder too**
 
+Please provide your email id and password in parser.py file to get notification
+
 Steps to run this program -
 - `pip install -r requirements.txt` ( you can do that in virtualenv or in whole system )
 - if you want to **run in one go** `python parser.py` will give desired output
