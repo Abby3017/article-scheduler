@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "hello,world"
 export WORKON_HOME=~/.virtualenvs
 VIRTUALENVWRAPPER_PYTHON='/usr/bin/python'
 source /home/abby/.local/bin/virtualenvwrapper.sh
