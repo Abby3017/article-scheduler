@@ -1,0 +1,5 @@
+Hey ${PERSON_NAME},
+There is a new article on onkollywood.com
+Read it ...enjoy it
+
+Thanks
